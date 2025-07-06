@@ -1,0 +1,391 @@
+Month,app_name,total_reviews
+4,Western Union Send Money Now,1995
+3,Western Union Send Money Now,2007
+2,Western Union Send Money Now,1776
+12,Western Union Send Money Now,1953
+11,Western Union Send Money Now,1679
+1,Western Union Send Money Now,1614
+8,Western Union Send Money Now,1696
+5,Western Union Send Money Now,1859
+7,Western Union Send Money Now,1642
+6,Western Union Send Money Now,1682
+10,Western Union Send Money Now,1912
+9,Western Union Send Money Now,1647
+4,"Priceline: Hotel, Flight & Car",143
+3,"Priceline: Hotel, Flight & Car",171
+2,"Priceline: Hotel, Flight & Car",146
+12,"Priceline: Hotel, Flight & Car",127
+11,"Priceline: Hotel, Flight & Car",111
+1,"Priceline: Hotel, Flight & Car",117
+5,"Priceline: Hotel, Flight & Car",143
+9,"Priceline: Hotel, Flight & Car",123
+7,"Priceline: Hotel, Flight & Car",146
+6,"Priceline: Hotel, Flight & Car",140
+8,"Priceline: Hotel, Flight & Car",141
+10,"Priceline: Hotel, Flight & Car",112
+2,AXS Tickets,563
+4,AXS Tickets,646
+3,AXS Tickets,800
+1,AXS Tickets,424
+12,AXS Tickets,401
+10,AXS Tickets,521
+9,AXS Tickets,612
+5,AXS Tickets,463
+8,AXS Tickets,411
+11,AXS Tickets,462
+7,AXS Tickets,437
+6,AXS Tickets,541
+11,IMDb: Movies & TV Shows,1108
+1,IMDb: Movies & TV Shows,1139
+3,IMDb: Movies & TV Shows,1229
+12,IMDb: Movies & TV Shows,1122
+10,IMDb: Movies & TV Shows,1267
+8,IMDb: Movies & TV Shows,1584
+7,IMDb: Movies & TV Shows,1854
+6,IMDb: Movies & TV Shows,1013
+2,IMDb: Movies & TV Shows,1152
+9,IMDb: Movies & TV Shows,1300
+4,IMDb: Movies & TV Shows,1151
+5,IMDb: Movies & TV Shows,1081
+4,Wingstop,897
+3,Wingstop,741
+11,Wingstop,520
+8,Wingstop,890
+7,Wingstop,952
+6,Wingstop,823
+5,Wingstop,792
+1,Wingstop,603
+2,Wingstop,608
+12,Wingstop,618
+10,Wingstop,577
+9,Wingstop,770
+2,Panda Express,835
+12,Panda Express,986
+11,Panda Express,1093
+1,Panda Express,832
+5,Panda Express,1002
+9,Panda Express,564
+4,Panda Express,1138
+6,Panda Express,550
+3,Panda Express,937
+7,Panda Express,743
+8,Panda Express,610
+10,Panda Express,671
+4,Safeway Deals & Delivery,1160
+3,Safeway Deals & Delivery,1286
+2,Safeway Deals & Delivery,1079
+12,Safeway Deals & Delivery,1131
+11,Safeway Deals & Delivery,1455
+1,Safeway Deals & Delivery,1187
+10,Safeway Deals & Delivery,1524
+6,Safeway Deals & Delivery,1033
+8,Safeway Deals & Delivery,1199
+9,Safeway Deals & Delivery,1144
+5,Safeway Deals & Delivery,783
+7,Safeway Deals & Delivery,1015
+6,My Earthquake Alerts - Map,204
+3,My Earthquake Alerts - Map,326
+5,My Earthquake Alerts - Map,259
+12,My Earthquake Alerts - Map,281
+1,My Earthquake Alerts - Map,1070
+4,My Earthquake Alerts - Map,712
+10,My Earthquake Alerts - Map,201
+7,My Earthquake Alerts - Map,228
+11,My Earthquake Alerts - Map,215
+2,My Earthquake Alerts - Map,325
+9,My Earthquake Alerts - Map,257
+8,My Earthquake Alerts - Map,191
+1,Suno - AI Music,674
+4,Suno - AI Music,1874
+3,Suno - AI Music,2207
+2,Suno - AI Music,1351
+12,Suno - AI Music,1388
+3,Dairy Queen® Food & Treats,1354
+2,Dairy Queen® Food & Treats,562
+1,Dairy Queen® Food & Treats,526
+12,Dairy Queen® Food & Treats,473
+11,Dairy Queen® Food & Treats,476
+7,Dairy Queen® Food & Treats,824
+9,Dairy Queen® Food & Treats,808
+5,Dairy Queen® Food & Treats,753
+8,Dairy Queen® Food & Treats,651
+6,Dairy Queen® Food & Treats,696
+10,Dairy Queen® Food & Treats,592
+4,Dairy Queen® Food & Treats,1221
+4,DoorDash - Dasher,1806
+3,DoorDash - Dasher,2034
+2,DoorDash - Dasher,1494
+11,DoorDash - Dasher,1192
+10,DoorDash - Dasher,907
+1,DoorDash - Dasher,1302
+9,DoorDash - Dasher,785
+8,DoorDash - Dasher,830
+12,DoorDash - Dasher,1342
+7,DoorDash - Dasher,856
+5,DoorDash - Dasher,1242
+6,DoorDash - Dasher,1210
+4,Yahoo Mail,1514
+3,Yahoo Mail,1867
+2,Yahoo Mail,1877
+12,Yahoo Mail,1344
+1,Yahoo Mail,1314
+11,Yahoo Mail,1253
+9,Yahoo Mail,1079
+10,Yahoo Mail,1061
+8,Yahoo Mail,1114
+7,Yahoo Mail,761
+5,Yahoo Mail,982
+6,Yahoo Mail,834
+3,Google Wallet,1389
+12,Google Wallet,1103
+4,Google Wallet,1099
+2,Google Wallet,1214
+11,Google Wallet,1230
+1,Google Wallet,1135
+10,Google Wallet,1135
+9,Google Wallet,978
+8,Google Wallet,1202
+6,Google Wallet,706
+7,Google Wallet,1110
+5,Google Wallet,739
+3,Google Calendar,1535
+2,Google Calendar,1499
+1,Google Calendar,1265
+11,Google Calendar,1319
+4,Google Calendar,1249
+12,Google Calendar,1076
+8,Google Calendar,1157
+9,Google Calendar,1400
+7,Google Calendar,952
+10,Google Calendar,1560
+6,Google Calendar,915
+5,Google Calendar,1073
+2,Taco Bell Fast Food & Delivery,1015
+11,Taco Bell Fast Food & Delivery,1403
+12,Taco Bell Fast Food & Delivery,1403
+1,Taco Bell Fast Food & Delivery,1167
+10,Taco Bell Fast Food & Delivery,1408
+9,Taco Bell Fast Food & Delivery,1242
+8,Taco Bell Fast Food & Delivery,1327
+4,Taco Bell Fast Food & Delivery,1341
+3,Taco Bell Fast Food & Delivery,1466
+6,Taco Bell Fast Food & Delivery,949
+7,Taco Bell Fast Food & Delivery,1203
+5,Taco Bell Fast Food & Delivery,1076
+3,Subway®,1875
+2,Subway®,1489
+1,Subway®,1322
+11,Subway®,1218
+12,Subway®,1212
+10,Subway®,1104
+8,Subway®,1021
+4,Subway®,1426
+9,Subway®,954
+6,Subway®,1010
+5,Subway®,1176
+7,Subway®,1193
+12,Xbox,602
+4,Xbox,444
+3,Xbox,434
+2,Xbox,427
+1,Xbox,417
+11,Xbox,968
+10,Xbox,866
+9,Xbox,237
+5,Xbox,288
+7,Xbox,269
+8,Xbox,310
+6,Xbox,217
+4,Planet Fitness Workouts,650
+3,Planet Fitness Workouts,984
+2,Planet Fitness Workouts,1089
+1,Planet Fitness Workouts,976
+9,Planet Fitness Workouts,695
+12,Planet Fitness Workouts,648
+8,Planet Fitness Workouts,1092
+5,Planet Fitness Workouts,611
+7,Planet Fitness Workouts,585
+11,Planet Fitness Workouts,665
+10,Planet Fitness Workouts,601
+6,Planet Fitness Workouts,611
+12,Local News: Breaking & Latest,482
+2,Local News: Breaking & Latest,387
+11,Local News: Breaking & Latest,543
+4,Local News: Breaking & Latest,371
+3,Local News: Breaking & Latest,471
+8,Local News: Breaking & Latest,166
+10,Local News: Breaking & Latest,498
+5,Local News: Breaking & Latest,214
+7,Local News: Breaking & Latest,230
+9,Local News: Breaking & Latest,306
+6,Local News: Breaking & Latest,254
+1,Local News: Breaking & Latest,398
+1,YouTube TV: Live TV & more,1471
+12,YouTube TV: Live TV & more,1551
+10,YouTube TV: Live TV & more,1584
+9,YouTube TV: Live TV & more,1465
+4,YouTube TV: Live TV & more,1080
+3,YouTube TV: Live TV & more,1574
+2,YouTube TV: Live TV & more,1515
+11,YouTube TV: Live TV & more,1596
+5,YouTube TV: Live TV & more,758
+7,YouTube TV: Live TV & more,851
+6,YouTube TV: Live TV & more,761
+8,YouTube TV: Live TV & more,792
+0,YouTube TV: Live TV & more,1
+3,Amazon Alexa,951
+1,Amazon Alexa,935
+11,Amazon Alexa,1091
+12,Amazon Alexa,1220
+8,Amazon Alexa,549
+9,Amazon Alexa,506
+4,Amazon Alexa,861
+2,Amazon Alexa,789
+10,Amazon Alexa,754
+7,Amazon Alexa,535
+5,Amazon Alexa,627
+6,Amazon Alexa,562
+2,Realtor.com Real Estate & Rent,1492
+12,Realtor.com Real Estate & Rent,1247
+11,Realtor.com Real Estate & Rent,1002
+10,Realtor.com Real Estate & Rent,1233
+3,Realtor.com Real Estate & Rent,1489
+5,Realtor.com Real Estate & Rent,1128
+8,Realtor.com Real Estate & Rent,1184
+9,Realtor.com Real Estate & Rent,1142
+7,Realtor.com Real Estate & Rent,1147
+6,Realtor.com Real Estate & Rent,1111
+1,Realtor.com Real Estate & Rent,1406
+4,Realtor.com Real Estate & Rent,1304
+2,"Linky AI: Chat, Play, Connect",632
+12,"Linky AI: Chat, Play, Connect",835
+1,"Linky AI: Chat, Play, Connect",697
+11,"Linky AI: Chat, Play, Connect",974
+10,"Linky AI: Chat, Play, Connect",674
+9,"Linky AI: Chat, Play, Connect",849
+7,"Linky AI: Chat, Play, Connect",992
+6,"Linky AI: Chat, Play, Connect",1500
+4,"Linky AI: Chat, Play, Connect",1433
+3,"Linky AI: Chat, Play, Connect",1058
+5,"Linky AI: Chat, Play, Connect",995
+8,"Linky AI: Chat, Play, Connect",578
+1,Google Voice,1369
+4,Google Voice,1512
+3,Google Voice,1382
+2,Google Voice,1177
+12,Google Voice,1371
+11,Google Voice,1363
+10,Google Voice,1237
+7,Google Voice,1012
+5,Google Voice,1241
+8,Google Voice,997
+9,Google Voice,1240
+6,Google Voice,1096
+10,Google Play Games,1531
+1,Google Play Games,896
+4,Google Play Games,982
+11,Google Play Games,1859
+12,Google Play Games,1305
+2,Google Play Games,914
+3,Google Play Games,910
+9,Google Play Games,646
+8,Google Play Games,694
+6,Google Play Games,703
+5,Google Play Games,669
+7,Google Play Games,770
+3,Bluesky,526
+2,Bluesky,710
+4,Bluesky,548
+1,Bluesky,1356
+9,Bluesky,307
+12,Bluesky,1044
+11,Bluesky,2617
+10,Bluesky,606
+8,Bluesky,173
+6,Bluesky,129
+5,Bluesky,174
+7,Bluesky,169
+12,Alibaba.com - B2B marketplace,1416
+1,Alibaba.com - B2B marketplace,1339
+3,Alibaba.com - B2B marketplace,1686
+2,Alibaba.com - B2B marketplace,1503
+11,Alibaba.com - B2B marketplace,1311
+6,Alibaba.com - B2B marketplace,923
+8,Alibaba.com - B2B marketplace,1089
+7,Alibaba.com - B2B marketplace,1015
+9,Alibaba.com - B2B marketplace,1125
+4,Alibaba.com - B2B marketplace,1364
+10,Alibaba.com - B2B marketplace,1162
+5,Alibaba.com - B2B marketplace,1067
+8,Talkie: Creative AI Community,629
+4,Talkie: Creative AI Community,1389
+1,Talkie: Creative AI Community,1663
+3,Talkie: Creative AI Community,2201
+2,Talkie: Creative AI Community,1855
+11,Talkie: Creative AI Community,1018
+12,Talkie: Creative AI Community,1247
+10,Talkie: Creative AI Community,752
+9,Talkie: Creative AI Community,638
+6,Talkie: Creative AI Community,371
+7,Talkie: Creative AI Community,544
+5,Talkie: Creative AI Community,432
+0,Talkie: Creative AI Community,1
+3,NCAA March Madness Live,7638
+4,NCAA March Madness Live,758
+9,NCAA March Madness Live,3
+2,NCAA March Madness Live,27
+10,NCAA March Madness Live,6
+8,NCAA March Madness Live,9
+5,NCAA March Madness Live,16
+12,NCAA March Madness Live,10
+7,NCAA March Madness Live,8
+11,NCAA March Madness Live,7
+6,NCAA March Madness Live,7
+1,NCAA March Madness Live,3
+4,U-Haul,549
+2,U-Haul,373
+1,U-Haul,395
+11,U-Haul,484
+12,U-Haul,454
+10,U-Haul,441
+6,U-Haul,491
+9,U-Haul,520
+5,U-Haul,540
+3,U-Haul,557
+7,U-Haul,526
+8,U-Haul,592
+6,TikTok Studio,130
+3,TikTok Studio,130
+4,TikTok Studio,69
+2,TikTok Studio,87
+1,TikTok Studio,167
+12,TikTok Studio,154
+11,TikTok Studio,144
+10,TikTok Studio,120
+8,TikTok Studio,172
+7,TikTok Studio,106
+9,TikTok Studio,114
+4,Smart Home Manager,1148
+3,Smart Home Manager,1167
+2,Smart Home Manager,1070
+1,Smart Home Manager,1168
+12,Smart Home Manager,1108
+11,Smart Home Manager,1022
+7,Smart Home Manager,1080
+5,Smart Home Manager,998
+9,Smart Home Manager,1061
+6,Smart Home Manager,975
+8,Smart Home Manager,1066
+10,Smart Home Manager,1074
+2,Frontier Airlines,680
+10,Frontier Airlines,786
+8,Frontier Airlines,726
+4,Frontier Airlines,722
+3,Frontier Airlines,793
+11,Frontier Airlines,793
+12,Frontier Airlines,743
+1,Frontier Airlines,848
+9,Frontier Airlines,726
+7,Frontier Airlines,1010
+6,Frontier Airlines,772
+5,Frontier Airlines,658

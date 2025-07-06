@@ -1,0 +1,16 @@
+{
+  "name": "Crextio Theme",
+  "dataColors": [ "#F9C72E", "#2D2D2D", "#EAEAEA", "#1A1A1A" ],
+  "background": "#FAF9F6",
+  "foreground": "#2D2D2D",
+  "tableAccent": "#F9C72E",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [ { "solid": { "color": "#2D2D2D" } } ],
+        "background": [ { "solid": { "color": "#FAF9F6" } } ],
+        "fontFamily": [ { "fontFamily": "Segoe UI" } ]
+      }
+    }
+  }
+}
